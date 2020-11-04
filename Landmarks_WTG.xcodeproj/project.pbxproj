@@ -59,6 +59,20 @@
 		20301E6D2553486500C7223F /* chilkoottrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20301E5C2553486500C7223F /* chilkoottrail.jpg */; };
 		20301E6E2553486500C7223F /* stmarylake_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20301E5D2553486500C7223F /* stmarylake_feature.jpg */; };
 		20301E6F2553486500C7223F /* rainbowlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20301E5E2553486500C7223F /* rainbowlake.jpg */; };
+		20A20F0E255369CC000659AF /* vegas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F0D255369CC000659AF /* vegas.jpg */; };
+		20A20F11255369D2000659AF /* phili.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F10255369D2000659AF /* phili.jpg */; };
+		20A20F14255369D8000659AF /* trash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F13255369D8000659AF /* trash.jpg */; };
+		20A20F17255369DC000659AF /* silicon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F16255369DC000659AF /* silicon.jpg */; };
+		20A20F1A255369E2000659AF /* kilauea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F19255369E2000659AF /* kilauea.jpg */; };
+		20A20F1D255369E6000659AF /* mojave.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F1C255369E6000659AF /* mojave.jpg */; };
+		20A20F20255369EA000659AF /* pantex.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F1F255369EA000659AF /* pantex.jpg */; };
+		20A20F23255369EF000659AF /* manhattan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F22255369EF000659AF /* manhattan.jpg */; };
+		20A20F26255369F3000659AF /* malibu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F25255369F3000659AF /* malibu.jpg */; };
+		20A20F29255369FF000659AF /* 51.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F28255369FF000659AF /* 51.jpg */; };
+		20A20F2C25536A03000659AF /* beecave.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F2B25536A03000659AF /* beecave.jpg */; };
+		20A20F2F25536A07000659AF /* anchorage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F2E25536A07000659AF /* anchorage.jpg */; };
+		20A20F3225536A0E000659AF /* explorer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F3125536A0E000659AF /* explorer.jpg */; };
+		20A20F3525536A13000659AF /* hogsmeade.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F3425536A13000659AF /* hogsmeade.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,8 +82,8 @@
 		20301DF32553463C00C7223F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		20301DF62553463C00C7223F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20301DF82553463C00C7223F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		20301DFF2553474800C7223F /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = ../../../Downloads/InterfacingWithUIKit/Complete/Landmarks/Landmarks/AppDelegate.swift; sourceTree = "<group>"; };
-		20301E032553478100C7223F /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SceneDelegate.swift; path = ../../../Downloads/InterfacingWithUIKit/Complete/Landmarks/Landmarks/SceneDelegate.swift; sourceTree = "<group>"; };
+		20301DFF2553474800C7223F /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		20301E032553478100C7223F /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		20301E08255347E200C7223F /* FeatureCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		20301E09255347E200C7223F /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
 		20301E0A255347E200C7223F /* MapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
@@ -116,6 +130,20 @@
 		20301E5C2553486500C7223F /* chilkoottrail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chilkoottrail.jpg; sourceTree = "<group>"; };
 		20301E5D2553486500C7223F /* stmarylake_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stmarylake_feature.jpg; sourceTree = "<group>"; };
 		20301E5E2553486500C7223F /* rainbowlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rainbowlake.jpg; sourceTree = "<group>"; };
+		20A20F0D255369CC000659AF /* vegas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vegas.jpg; sourceTree = "<group>"; };
+		20A20F10255369D2000659AF /* phili.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = phili.jpg; sourceTree = "<group>"; };
+		20A20F13255369D8000659AF /* trash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = trash.jpg; sourceTree = "<group>"; };
+		20A20F16255369DC000659AF /* silicon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = silicon.jpg; sourceTree = "<group>"; };
+		20A20F19255369E2000659AF /* kilauea.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kilauea.jpg; sourceTree = "<group>"; };
+		20A20F1C255369E6000659AF /* mojave.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mojave.jpg; sourceTree = "<group>"; };
+		20A20F1F255369EA000659AF /* pantex.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pantex.jpg; sourceTree = "<group>"; };
+		20A20F22255369EF000659AF /* manhattan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = manhattan.jpg; sourceTree = "<group>"; };
+		20A20F25255369F3000659AF /* malibu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = malibu.jpg; sourceTree = "<group>"; };
+		20A20F28255369FF000659AF /* 51.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 51.jpg; sourceTree = "<group>"; };
+		20A20F2B25536A03000659AF /* beecave.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beecave.jpg; sourceTree = "<group>"; };
+		20A20F2E25536A07000659AF /* anchorage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = anchorage.jpg; sourceTree = "<group>"; };
+		20A20F3125536A0E000659AF /* explorer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = explorer.jpg; sourceTree = "<group>"; };
+		20A20F3425536A13000659AF /* hogsmeade.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hogsmeade.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -265,6 +293,20 @@
 				20301E5C2553486500C7223F /* chilkoottrail.jpg */,
 				20301E5D2553486500C7223F /* stmarylake_feature.jpg */,
 				20301E5E2553486500C7223F /* rainbowlake.jpg */,
+				20A20F0D255369CC000659AF /* vegas.jpg */,
+				20A20F10255369D2000659AF /* phili.jpg */,
+				20A20F13255369D8000659AF /* trash.jpg */,
+				20A20F16255369DC000659AF /* silicon.jpg */,
+				20A20F19255369E2000659AF /* kilauea.jpg */,
+				20A20F1C255369E6000659AF /* mojave.jpg */,
+				20A20F1F255369EA000659AF /* pantex.jpg */,
+				20A20F22255369EF000659AF /* manhattan.jpg */,
+				20A20F25255369F3000659AF /* malibu.jpg */,
+				20A20F28255369FF000659AF /* 51.jpg */,
+				20A20F2B25536A03000659AF /* beecave.jpg */,
+				20A20F2E25536A07000659AF /* anchorage.jpg */,
+				20A20F3125536A0E000659AF /* explorer.jpg */,
+				20A20F3425536A13000659AF /* hogsmeade.jpg */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -326,24 +368,38 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20A20F2C25536A03000659AF /* beecave.jpg in Resources */,
 				20301E632553486500C7223F /* hikeData.json in Resources */,
 				20301E6F2553486500C7223F /* rainbowlake.jpg in Resources */,
 				20301E6D2553486500C7223F /* chilkoottrail.jpg in Resources */,
+				20A20F2F25536A07000659AF /* anchorage.jpg in Resources */,
+				20A20F1D255369E6000659AF /* mojave.jpg in Resources */,
 				20301E602553486500C7223F /* charleyrivers.jpg in Resources */,
 				20301E692553486500C7223F /* umbagog.jpg in Resources */,
+				20A20F14255369D8000659AF /* trash.jpg in Resources */,
 				20301DF72553463C00C7223F /* LaunchScreen.storyboard in Resources */,
 				20301E612553486500C7223F /* turtlerock.jpg in Resources */,
 				20301DF42553463C00C7223F /* Preview Assets.xcassets in Resources */,
 				20301E662553486500C7223F /* hiddenlake.jpg in Resources */,
+				20A20F26255369F3000659AF /* malibu.jpg in Resources */,
 				20301E672553486500C7223F /* twinlake.jpg in Resources */,
+				20A20F3225536A0E000659AF /* explorer.jpg in Resources */,
+				20A20F23255369EF000659AF /* manhattan.jpg in Resources */,
+				20A20F20255369EA000659AF /* pantex.jpg in Resources */,
+				20A20F17255369DC000659AF /* silicon.jpg in Resources */,
+				20A20F11255369D2000659AF /* phili.jpg in Resources */,
 				20301E6A2553486500C7223F /* landmarkData.json in Resources */,
 				20301E622553486500C7223F /* silversalmoncreek.jpg in Resources */,
 				20301E6E2553486500C7223F /* stmarylake_feature.jpg in Resources */,
 				20301E652553486500C7223F /* lakemcdonald.jpg in Resources */,
 				20301E682553486500C7223F /* charleyrivers_feature.jpg in Resources */,
 				20301E6C2553486500C7223F /* stmarylake.jpg in Resources */,
+				20A20F0E255369CC000659AF /* vegas.jpg in Resources */,
 				20301DF12553463C00C7223F /* Assets.xcassets in Resources */,
+				20A20F29255369FF000659AF /* 51.jpg in Resources */,
 				20301E642553486500C7223F /* icybay.jpg in Resources */,
+				20A20F1A255369E2000659AF /* kilauea.jpg in Resources */,
+				20A20F3525536A13000659AF /* hogsmeade.jpg in Resources */,
 				20301E6B2553486500C7223F /* chincoteague.jpg in Resources */,
 				20301E5F2553486500C7223F /* turtlerock_feature.jpg in Resources */,
 			);
