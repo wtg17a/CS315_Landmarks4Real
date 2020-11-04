@@ -73,6 +73,7 @@
 		20A20F2F25536A07000659AF /* anchorage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F2E25536A07000659AF /* anchorage.jpg */; };
 		20A20F3225536A0E000659AF /* explorer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F3125536A0E000659AF /* explorer.jpg */; };
 		20A20F3525536A13000659AF /* hogsmeade.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F3425536A13000659AF /* hogsmeade.jpg */; };
+		20A20F3825536C08000659AF /* reef.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 20A20F3725536C08000659AF /* reef.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -144,6 +145,7 @@
 		20A20F2E25536A07000659AF /* anchorage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = anchorage.jpg; sourceTree = "<group>"; };
 		20A20F3125536A0E000659AF /* explorer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = explorer.jpg; sourceTree = "<group>"; };
 		20A20F3425536A13000659AF /* hogsmeade.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hogsmeade.jpg; sourceTree = "<group>"; };
+		20A20F3725536C08000659AF /* reef.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = reef.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -307,6 +309,7 @@
 				20A20F2E25536A07000659AF /* anchorage.jpg */,
 				20A20F3125536A0E000659AF /* explorer.jpg */,
 				20A20F3425536A13000659AF /* hogsmeade.jpg */,
+				20A20F3725536C08000659AF /* reef.jpeg */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -390,6 +393,7 @@
 				20A20F11255369D2000659AF /* phili.jpg in Resources */,
 				20301E6A2553486500C7223F /* landmarkData.json in Resources */,
 				20301E622553486500C7223F /* silversalmoncreek.jpg in Resources */,
+				20A20F3825536C08000659AF /* reef.jpeg in Resources */,
 				20301E6E2553486500C7223F /* stmarylake_feature.jpg in Resources */,
 				20301E652553486500C7223F /* lakemcdonald.jpg in Resources */,
 				20301E682553486500C7223F /* charleyrivers_feature.jpg in Resources */,

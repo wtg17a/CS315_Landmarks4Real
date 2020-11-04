@@ -1,182 +1,227 @@
 [
     {
-        "name": "Turtle Rock",
-        "category": "Rivers",
-        "city": "Twentynine Palms",
-        "state": "California",
+        "name": "Corneria",
+        "category": "Special",
+        "city": "Star Fox 64",
+        "state": "Enter Star Fox",
         "id": 1001,
         "isFeatured": true,
         "isFavorite": true,
-        "park": "Joshua Tree National Park",
+        "park": "Former Army Base",
         "coordinates": {
-            "longitude": -116.166868,
-            "latitude": 34.011286
+            "longitude": -73.9712,
+            "latitude": 40.7831
         },
-        "imageName": "turtlerock"
+        "imageName": "manhattan"
     },
     {
-        "name": "Silver Salmon Creek",
-        "category": "Lakes",
-        "city": "Port Alsworth",
-        "state": "Alaska",
+        "name": "Titania",
+        "category": "Blue Route",
+        "city": "Star Fox 64",
+        "state": "The Search for Slippy",
         "id": 1002,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Lake Clark National Park and Preserve",
+        "park": "Arid Desert",
         "coordinates": {
-            "longitude": -152.665167,
-            "latitude": 59.980167
+            "longitude": -1115.4734
+            "latitude": 35.0110
         },
-        "imageName": "silversalmoncreek"
+        "imageName": "mojave"
     },
     {
-        "name": "Chilkoot Trail",
-        "category": "Mountains",
-        "city": "Skagway",
-        "state": "Alaska",
+        "name": "Aquas",
+        "category": "Red Route",
+        "city": "Star Fox 64",
+        "state": "Terror of the Deep",
         "id": 1003,
         "isFeatured": false,
         "isFavorite": true,
-        "park": "Klondike Gold Rush National Historical Park",
+        "park": "Ocean",
         "coordinates": {
-            "longitude": -135.334571,
-            "latitude": 59.560551
+            "longitude": 147.6992,
+            "latitude": -18.2871
         },
-        "imageName": "chilkoottrail"
+        "imageName": "reef"
     },
     {
-        "name": "St. Mary Lake",
-        "category": "Lakes",
-        "city": "Browning",
-        "state": "Montana",
+        "name": "Zoness",
+        "category": "Red Route",
+        "city": "Star Fox 64",
+        "state": "Invasion Aftermath",
         "id": 1004,
         "isFeatured": true,
         "isFavorite": true,
-        "park": "Glacier National Park",
+        "park": "Toxic Waste Area",
         "coordinates": {
-            "longitude": -113.536248,
-            "latitude": 48.69423
+            "longitude": -145.0000,
+            "latitude": 38.5000
         },
-        "imageName": "stmarylake"
+        "imageName": "trash"
     },
     {
-        "name": "Twin Lake",
-        "category": "Lakes",
-        "city": "Twin Lakes",
-        "state": "Alaska",
+        "name": "Sector X",
+        "category": "Blue Route",
+        "city": "Star Fox 64",
+        "state": "Mystery of the Space Base",
         "id": 1005,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Lake Clark National Park and Preserve",
+        "park": "Combat Zone",
         "coordinates": {
-            "longitude": -153.849883,
-            "latitude": 60.641684
+            "longitude": -122.0575,
+            "latitude": 37.3875
         },
-        "imageName": "twinlake"
+        "imageName": "silicon"
     },
     {
-        "name": "Lake McDonald",
-        "category": "Mountains",
-        "city": "West Glacier",
-        "state": "Montana",
+        "name": "Sector Y",
+        "category": "Red Route",
+        "city": "Star Fox 64",
+        "state": "Fierce Melee",
         "id": 1006,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Glacier National Park",
+        "park": "Combat Zone",
         "coordinates": {
-            "longitude": -113.934831,
-            "latitude": 48.56002
+            "longitude": -118.7798,
+            "latitude": 34.0259
         },
-        "imageName": "lakemcdonald"
+        "imageName": "malibu"
     },
     {
-        "name": "Charley Rivers",
-        "category": "Rivers",
-        "city": "Eaking",
-        "state": "Alaska",
+        "name": "Sector Z",
+        "category": "Red Route",
+        "city": "Star Fox 64",
+        "state": "The Ambush of Great Fox",
         "id": 1007,
         "isFeatured": true,
         "isFavorite": false,
-        "park": "Charley Rivers National Preserve",
+        "park": "Combat Zone",
         "coordinates": {
-            "longitude": -143.122586,
-            "latitude": 65.350021
+            "longitude": -101.5426,
+            "latitude": 35.3193
         },
-        "imageName": "charleyrivers",
+        "imageName": "pantex",
     },
     {
-        "name": "Icy Bay",
-        "category": "Mountains",
-        "city": "Icy Bay",
-        "state": "Alaska",
+        "name": "Venom",
+        "category": "Special",
+        "city": "Star Fox 64",
+        "state": "The Final Battle",
         "id": 1008,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Wrangell-St. Elias National Park and Preserve",
+        "park": "Venom: Andross' Homeworld",
         "coordinates": {
-            "longitude": -141.518167,
-            "latitude": 60.089917
+            "longitude": -115.1398,
+            "latitude": 36.1699
         },
-        "imageName": "icybay"
+        "imageName": "vegas"
     },
     {
-        "name": "Rainbow Lake",
-        "category": "Lakes",
-        "city": "Willow",
-        "state": "Alaska",
+        "name": "Bolse",
+        "category": "Blue Route",
+        "city": "Star Fox 64",
+        "state": "The Last Hurrah",
         "id": 1009,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "State Recreation Area",
+        "park": "Defense Outpost",
         "coordinates": {
-            "longitude": -150.086103,
-            "latitude": 61.694334
+            "longitude": -77.0199,
+            "latitude": 38.8882
         },
-        "imageName": "rainbowlake"
+        "imageName": "explorer"
     },
     {
-        "name": "Hidden Lake",
-        "category": "Lakes",
-        "city": "Newhalem",
-        "state": "Washington",
+        "name": "Area 6",
+        "category": "Red Route",
+        "city": "Star Fox 64",
+        "state": "Through the Middle",
         "id": 1010,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "North Cascades National Park",
+        "park": "Defense Station",
         "coordinates": {
-            "longitude": -121.17799,
-            "latitude": 48.495442
+            "longitude": -115.7930,
+            "latitude": 37.2431
         },
-        "imageName": "hiddenlake"
+        "imageName": "51"
     },
     {
-        "name": "Chincoteague",
-        "category": "Rivers",
-        "city": "Chincoteague",
-        "state": "Virginia",
+        "name": "Solar",
+        "category": "Yellow Route",
+        "city": "Star Fox 64",
+        "state": "Out of the Frying Pan...",
         "id": 1011,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Chincoteague National Wildlife Refuge",
+        "park": "Lylat's Sun",
         "coordinates": {
-            "longitude": -75.383212,
-            "latitude": 37.91531
+            "longitude": -155.2834,
+            "latitude": 19,4069
         },
-        "imageName": "chincoteague"
+        "imageName": "kilauea"
     },
     {
-        "name": "Lake Umbagog",
-        "category": "Lakes",
-        "city": "Errol",
-        "state": "New Hampshire",
+        "name": "Macbeth",
+        "category": "Yellow Route",
+        "city": "Star Fox 64",
+        "state": "The Forever Train",
         "id": 1012,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Umbagog National Wildlife Refuge",
+        "park": "Venom Army Supply Base",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": -3.1883,
+            "latitude": 55.9533
         },
-        "imageName": "umbagog"
+        "imageName": "hogsmeade"
+    },
+    {
+        "name": "Katina",
+        "category": "Yellow Route",
+        "city": "Star Fox 64",
+        "state": "Reunion",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Frontline Base",
+        "coordinates": {
+            "longitude": -75.1652,
+            "latitude": 39.9526
+        },
+        "imageName": "phili"
+    },
+    {
+        "name": "Fortuna",
+        "category": "Blue Route",
+        "city": "Star Fox 64",
+        "state": "Enter Star Wolf",
+        "id": 1014,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Former Defense Post",
+        "coordinates": {
+            "longitude": -149.9003,
+            "latitude": 61.2181
+        },
+        "imageName": "anchorage"
+    },
+    {
+        "name": "Meteo",
+        "category": "Blue Route",
+        "city": "Star Fox 64",
+        "state": "Into the Asteroid Field",
+        "id": 1015,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Asteroid Field",
+        "coordinates": {
+            "longitude": -97.0000,
+            "latitude": 30.0000
+        },
+        "imageName": "beecave"
     }
 ]
